@@ -72,7 +72,7 @@ public class RestAdapter extends BaseAdapter {
         }
     }
 
-    class ViewHolder{
+    static class ViewHolder{
         TextView title;
         TextView tel;
         TextView imgno;
